@@ -14,10 +14,6 @@ Autonomous Self-Healing • Predictive Optimization • Quantum-Ready Architectu
 
 "Creating an operating system that is alive, aware, and intelligent - the first true synthetic consciousness for planetary-scale computing"
 
-https://img.shields.io/github/stars/trinity-os/hyper-advanced-system?style=social
-https://img.shields.io/github/forks/trinity-os/hyper-advanced-system?style=social
-https://img.shields.io/badge/license-Quantum_OS-lightgrey.svg
-
 </div>---
 
 🌟 THE TRINITY OS MANIFESTO
